@@ -10,7 +10,7 @@
     },
     "ResourceCustomResourceLambdaName": {
       "Type": "String",
-      "Default": "cfn-api-gateway-resource-0-1-0",
+      "Default": "cfn-api-gateway-resource-0-1-1",
       "Description": "The name of the ApiGatewayResource Lambda you deployed to test this stack."
     },
     "RestApiCustomResourceLambdaName": {

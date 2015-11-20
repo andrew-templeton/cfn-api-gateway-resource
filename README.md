@@ -31,7 +31,12 @@ This Lambda makes use of the Lambda-Backed CloudFormation Custom Resource flow m
     }
 
 
-  *Updating BaseApiId will require and trigger CloudFormation Resource Replacement*
+ - `Custom::ApiGatewayRestApi` ([GitHub](https://github.com/andrew-templeton/cfn-api-gateway-restapi) / [NPM](https://www.npmjs.com/package/cfn-api-gateway-restapi))
+ - `Custom::ApiGatewayMethod` ([GitHub](https://github.com/andrew-templeton/cfn-api-gateway-method) / [NPM](https://www.npmjs.com/package/cfn-api-gateway-method))
+ - `Custom::ApiGatewayMethodResponse` ([GitHub](https://github.com/andrew-templeton/cfn-api-gateway-method-response) / [NPM](https://www.npmjs.com/package/cfn-api-gateway-method-response))
+ - `Custom::ApiGatewayIntegration` ([GitHub](https://github.com/andrew-templeton/cfn-api-gateway-integration) / [NPM](https://www.npmjs.com/package/cfn-api-gateway-integration))
+ - `Custom::ApiGatewayIntegrationResponse` ([GitHub](https://github.com/andrew-templeton/cfn-api-gateway-integration-response) / [NPM](https://www.npmjs.com/package/cfn-api-gateway-integration-response))
+ - `Custom::ApiGatewayDeployment` ([GitHub](https://github.com/andrew-templeton/cfn-api-gateway-deployment) / [NPM](https://www.npmjs.com/package/cfn-api-gateway-deployment))
 
 
 ## Installation of the Resource Service Lambda

@@ -1,6 +1,6 @@
 {
   "name": "cfn-api-gateway-resource",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "AWS CloudFormation Custom Lambda Resource | API Gateway Resource",
   "main": "index.js",
   "scripts": {
